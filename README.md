@@ -2,6 +2,9 @@ This project is an employee tracker built on React.JS.
 
 This frontend was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
 
+Deployed app can be found here:
+https://karlavalentina85.github.io/Employee-Directory/
+
 ## Available Scripts
 
 The code is available in this [repository](https://github.com/karlavalentina85/Employee-Directory/tree/master).  
