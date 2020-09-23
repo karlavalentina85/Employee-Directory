@@ -1,6 +1,6 @@
 This project is an employee tracker built on React.JS.  
 
-This frontend was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  The backend was created using Node.js.  
+This frontend was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  
 
 ## Available Scripts
 
