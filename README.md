@@ -1,5 +1,7 @@
 This project is an employee tracker React/Node.JS/MongoDB application that allows you to create and update employee information.  It also allows you to list, sort and filter employee information.  The employee information captured is first name, last name, phone, and email.  The project needs to be built before it will run locally on port 3001 and has also been deployed on Heroku.  Heroku URL is below.
 
+https://lit-cliffs-16389.herokuapp.com/
+
 This frontend was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  The backend was created using Node.js.  
 
 ## Available Scripts
