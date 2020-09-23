@@ -2,7 +2,7 @@
     "name": "employeeclient",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://karlavalentina85.github.io/my-app",
+    "homepage": "https://karlavalentina85.github.io/Employee-Directory",
     "dependencies": {
         "axios": "^0.18.0",
         "bootstrap": "^4.3.1",
