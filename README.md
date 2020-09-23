@@ -1,14 +1,11 @@
-This project is an employee tracker React/Node.JS/MongoDB application that allows you to create and update employee information.  It also allows you to list, sort and filter employee information.  The employee information captured is first name, last name, phone, and email.  The project needs to be built before it will run locally on port 3001 and has also been deployed on Heroku.  Heroku URL is below.
-
-https://lit-cliffs-16389.herokuapp.com/
+This project is an employee tracker built on React.JS.  
 
 This frontend was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).  The backend was created using Node.js.  
 
 ## Available Scripts
 
-The code is available in this [repository](https://github.com/karlavalentina85/Employee-Directory/tree/master/employee-tracker).  
+The code is available in this [repository](https://github.com/karlavalentina85/Employee-Directory/tree/master).  
 
-For the project to run, you first must build the project by going to the root directory and typing the following:
 
 ### `yarn build`
 
@@ -23,21 +20,15 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 ### `yarn start`
 
 After building the ap, then this runs the app in production mode.<br />
-Open [http://localhost:3001](http://localhost:3001) to view it in the browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
-
-The ap is also deployed on [Heroku](https://lit-cliffs-16389.herokuapp.com/):
 
 ### `yarn test`
 
 Launches the test runner in the interactive watch mode.<br />
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn start-client`
-
-Launches the frontend React client in the browser.  This isn't useful because the code has already been changed to run in production mode and it doesn't do any good to start the client just by itself without starting Node.js backend.
 
 ### `yarn eject`
 
